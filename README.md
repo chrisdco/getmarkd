@@ -12,7 +12,7 @@ A private, real-time bookmark manager built with **Next.js** and **Supabase**.
 
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/ChrisDc777/getmarkd.git
+   git clone https://github.com/chrisdco/getmarkd.git
    cd getmarkd
    npm install
    ```
